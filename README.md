@@ -77,7 +77,7 @@ Change the company data at lib/company_data.dart
 
 ## About the Author
 
-Flutter Presence is Developed by [mrezkys](https://www.facebook.com/mrezkys12)
+Flutter Presence is Developed by [Anant Kumar]
 The User Interface are designed by [mrezkys](https://dribbble.com/mrezkys)
 
 ## Thanks To
